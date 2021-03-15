@@ -1,0 +1,43 @@
+
+body {
+		margin: 0;
+		background-color: hsla(180, 100%, 25%, 0.363);
+}
+h1 {	
+		color: #0b6975;
+		font-family: "Sofia", sans-serif;
+		font-size: 300%;
+		text-align: center;
+}
+p.info {
+		color: #0b6975;
+		font-family: "Trirong", serif;
+		font-size: 110%;
+		text-align: center;
+		padding-top: 0px;
+		padding-right: 220px;
+		padding-left: 220px;
+		padding-bottom: 5px;
+}
+img {
+		border-radius: 8px;
+		max-width: 100%;
+		height: auto;
+}
+footer {
+		color: #0b6975;
+		font-family: "Sofia", sans-serif;
+		font-size: 150%;
+		text-align: center;
+		padding-top: 10px;
+		border-color: tomato;
+		border-top-style: dotted;
+}
+a {
+		color: #0b6975;
+		font-family: "Trirong", serif;
+		font-size: 60%;
+}
+a:hover {
+		color: #199cb1;
+}
